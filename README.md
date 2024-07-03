@@ -1,4 +1,4 @@
-# Payphone-Stuff
+# Payphone
 
 Made by:
 - Nyeki ([@nyeki.py](https://discord.com/users/777338793803513886))
