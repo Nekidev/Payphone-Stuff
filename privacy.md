@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 ### Payphone Discord Bot Privacy Policy
 
 #### Last Updated: July 1, 2024
