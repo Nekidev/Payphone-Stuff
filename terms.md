@@ -1,3 +1,7 @@
+---
+title: Terms of Use - Payphone
+---
+
 ### Payphone Discord Bot Terms of Use
 
 #### Last Updated: July 1, 2024
