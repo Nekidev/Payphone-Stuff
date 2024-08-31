@@ -36,7 +36,7 @@ Welcome to Payphone's Code of Conduct! These are the basic rules you must follow
     Help maintain the integrity of the community by reporting any violations of this Code of Conduct using `p.report`. Your vigilance contributes to a safer environment for all.
 
 12. **Use Payphone's Features Responsibly**  
-    Utilize Payphone's commands and features as intended. Avoid creating fake reports, spamming suggestions, or exploiting bugs.
+    Utilize Payphone's commands and features as intended. Avoid creating false reports, spamming suggestions, or exploiting bugs.
 
 13. **Adhere to Discord's Terms of Service and Community Guidelines**  
     Follow Discord's rules, including avoiding illegal activities and adhering to their terms and community guidelines while using Payphone.
