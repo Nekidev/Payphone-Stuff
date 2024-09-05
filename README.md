@@ -6,6 +6,7 @@ Made by:
 Special thanks to:
 - Chirayu ([@chirayu_ackerman.](https://discord.com/users/1241342249468428358))
 - Joss ([@joss_raf](https://discord.com/users/1246444454861213706))
+- Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
 
 Testing:
 - Chirayu ([@chirayu_ackerman.](https://discord.com/users/1241342249468428358))
