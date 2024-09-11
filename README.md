@@ -16,6 +16,7 @@ Testing:
 Donators:
 - Beanie ([@bbeanie](https://discord.com/users/808745493944336485))
 - Liz ([@xx_l1zzi3](https://discord.com/users/914920098739912786))
+- Gabyha ([@gab527](https://discord.com/users/678730832952950784))
 
 Accepted Suggestions:
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
