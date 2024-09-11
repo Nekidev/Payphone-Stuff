@@ -13,6 +13,9 @@ Testing:
 - ✨21KMagic✨ ([@.itsjustme__](https://discord.com/users/698622915356393582))
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
 
+Donators:
+- Beanie ([@bbeanie](https://discord.com/users/808745493944336485))
+
 Accepted Suggestions:
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
 
