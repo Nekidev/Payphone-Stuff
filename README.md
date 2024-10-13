@@ -8,6 +8,9 @@ Special thanks to:
 - Joss ([@joss_raf](https://discord.com/users/1246444454861213706))
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
 
+Moderation:
+- Stasi ([@cot.cb](https://discord.com/users/657091104877051907))
+
 Testing:
 - Chirayu ([@chirayu_ackerman.](https://discord.com/users/1241342249468428358))
 - ✨21KMagic✨ ([@.itsjustme__](https://discord.com/users/698622915356393582))
