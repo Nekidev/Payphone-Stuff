@@ -12,6 +12,9 @@ Special thanks to:
 Moderation:
 - Stasi ([@cot.cb](https://discord.com/users/657091104877051907))
 
+Server Design:
+- Stasi ([@cot.cb](https://discord.com/users/657091104877051907))
+
 Testing:
 - Chirayu ([@chirayu_ackerman.](https://discord.com/users/1241342249468428358))
 - ✨21KMagic✨ ([@.itsjustme__](https://discord.com/users/698622915356393582))
