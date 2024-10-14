@@ -4,6 +4,7 @@ Made by:
 - Nyeki ([@nyeki.py](https://discord.com/users/777338793803513886))
 
 Special thanks to:
+- Stasi ([@cot.cb](https://discord.com/users/657091104877051907))
 - Chirayu ([@chirayu_ackerman.](https://discord.com/users/1241342249468428358))
 - Joss ([@joss_raf](https://discord.com/users/1246444454861213706))
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
