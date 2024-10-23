@@ -12,6 +12,7 @@ Special thanks to:
 Moderation:
 - Stasi ([@cot.cb](https://discord.com/users/657091104877051907))
 - Logan ([@l0gxd](https://discord.com/users/764881477245861898))
+- HIZZY ([@h1zxr](https://discord.com/users/1236599538005839922))
 
 Server Design:
 - Stasi ([@cot.cb](https://discord.com/users/657091104877051907))
