@@ -29,6 +29,7 @@ Donators:
 
 Accepted Suggestions:
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
+- ailuros ([@ai1ur0s](https://discord.com/users/1238490551003643955)) (Easter egg)
 
 Masks:
 - [Dinosaur](/assets/masks/dinosaur.png), Gabyha's ([@gab527](https://discord.com/users/678730832952950784)) cat
