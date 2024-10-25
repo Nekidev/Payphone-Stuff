@@ -17,28 +17,25 @@ Welcome to Payphone's Code of Conduct! These are the basic rules you must follow
 5. **Keep Chats Free of Spam, Ads, and Self-Promotions**  
    Maintain a clean and enjoyable chat experience by avoiding spam, advertisements, and self-promotions.
 
-6. **Keep NSFW Content to NSFW Calls**  
-   Respect boundaries by ensuring any NSFW content stays within NSFW-designated calls.
-
-7. **Use SFW Profile Pictures and Names**  
+6. **Use SFW Profile Pictures and Names**  
    Ensure your profile picture and username are Safe For Work (SFW), in accordance with Discord's guidelines.
 
-8. **Focus on Positive and Neutral Topics**  
+7. **Focus on Positive and Neutral Topics**  
    Stick to positive or neutral topics, avoiding discussions on politics, religion, or other potentially controversial subjects.
 
-9. **Respect the Automod**  
+8. **Respect the Automod**  
    Follow Payphone's automated moderation rules and avoid attempts to bypass them, ensuring a safe community for everyone.
 
-10. **Represent Yourself Honestly**  
+9. **Represent Yourself Honestly**  
     Be genuine in your interactions and avoid impersonating others, including staff members, to maintain trust within the community.
 
-11. **Report Violations Promptly**  
+10. **Report Violations Promptly**  
     Help maintain the integrity of the community by reporting any violations of this Code of Conduct using `p.report`. Your vigilance contributes to a safer environment for all.
 
-12. **Use Payphone's Features Responsibly**  
+11. **Use Payphone's Features Responsibly**  
     Utilize Payphone's commands and features as intended. Avoid creating false reports, spamming suggestions, or exploiting bugs.
 
-13. **Adhere to Discord's Terms of Service and Community Guidelines**  
+12. **Adhere to Discord's Terms of Service and Community Guidelines**  
     Follow Discord's rules, including avoiding illegal activities and adhering to their terms and community guidelines while using Payphone.
 
 This code of conduct was made to make Payphone a friendlier and safer place for everyone. Do you think there's anything that could be improved? You can suggest it using `p.suggest`!
