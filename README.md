@@ -1,6 +1,9 @@
 # Payphone
 
-Made by:
+Owned by:
+- Stasi ([@cot.cb](https://discord.com/users/657091104877051907))
+
+Developed by:
 - Nyeki ([@nyeki.py](https://discord.com/users/777338793803513886))
 
 Special thanks to:
