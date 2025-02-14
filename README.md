@@ -13,8 +13,7 @@ Special thanks to:
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
 
 Moderation:
-- Stasi ([@cot.cb](https://discord.com/users/657091104877051907))
-- Liz ([@xx_l1zzi3](https://discord.com/users/914920098739912786))
+- Anastasia ([@cot.cb](https://discord.com/users/657091104877051907))
 
 Server Design:
 - Anastasia ([@cot.cb](https://discord.com/users/657091104877051907))
