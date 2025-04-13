@@ -10,6 +10,7 @@ Special thanks to:
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
 
 Moderation:
+- Nyeki ([@nyeki.py](https://discord.com/users/777338793803513886))
 - Anastasia ([@cot.cb](https://discord.com/users/657091104877051907))
 
 Server Design:
