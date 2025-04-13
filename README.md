@@ -36,4 +36,4 @@ Masks:
 - [Dinosaur](/assets/masks/dinosaur.png), Gabyha's ([@gab527](https://discord.com/users/678730832952950784)) cat
 - [Freepik](https://www.freepik.com/) for the animal masks
 
-[Donate!](https://ko-fi.com/payphonedev) - [Code of Conduct](/code-of-conduct) - [Terms of Use](/terms) - [Privacy Policy](/privacy) - [Official Server](https://discord.gg/payphone) - [Invite Payphone](https://discord.com/oauth2/authorize?client_id=1212940413795827763) - [Vote on Top.gg](https://top.gg/bot/1212940413795827763)
+[Donate!](https://ko-fi.com/payphonedev) - [Code of Conduct](/code-of-conduct) - [Terms of Use](/terms) - [Privacy Policy](/privacy) - [Official Server](https://discord.gg/9daSsrfTmE) - [Invite Payphone](https://discord.com/oauth2/authorize?client_id=1212940413795827763) - [Vote on Top.gg](https://top.gg/bot/1212940413795827763)
