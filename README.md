@@ -36,7 +36,6 @@ Donators:
 - real ([@waiting.for.you.1421](https://discord.com/users/964997713689206805))
 - ꉔꏂꋊ꓄꒤ꋪ꒐ꄲꋊ ([@centurion_the_goat](https://discord.com/users/885776181453013022))
 - hakise ([@helosaskos](https://discord.com/users/1102609791114805279))
-- u8jr900 ([@u8jr900](https://discord.com/users/956922871635148900))
 - fw.dior ([@fw.dior](https://discord.com/users/842206928158982194))
 - rekamo ([@rekamo](https://discord.com/users/755566324457013348))
 
