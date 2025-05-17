@@ -1,7 +1,7 @@
 # Payphone
 
 Developed by:
-- Nyeki ([@nyeki.py](https://discord.com/users/777338793803513886))
+- Nyeki ([@last.ts](https://discord.com/users/1357199907512914051))
 
 Special thanks to:
 - Anastasia ([@cot.cb](https://discord.com/users/657091104877051907))
@@ -10,8 +10,9 @@ Special thanks to:
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
 
 Moderation:
-- Nyeki ([@nyeki.py](https://discord.com/users/777338793803513886))
+- Nyeki ([@last.ts](https://discord.com/users/1357199907512914051))
 - Anastasia ([@cot.cb](https://discord.com/users/657091104877051907))
+- Horizon ([@horizon1_1](https://discord.com/users/1056927671726133338))
 
 Server Design:
 - Anastasia ([@cot.cb](https://discord.com/users/657091104877051907))
@@ -28,9 +29,16 @@ Donators:
 - k ([@misscalculate.](https://discord.com/users/831898950143443034))
 - Anastasia ([@cot.cb](https://discord.com/users/657091104877051907))
 - Penguin ([@u8jr900](https://discord.com/users/956922871635148900))
+- coppertj ([@coppertj](https://discord.com/users/198137561984663552))
+- Cersan ([@cersansalad](https://discord.com/users/506146454495297548))
+- goofy joey😜 ([@bp9c](https://discord.com/users/1154683576147791953))
+- malachai ([@usanariu](https://discord.com/users/762477133129056257))
+- real ([@waiting.for.you.1421](https://discord.com/users/964997713689206805))
+- ꉔꏂꋊ꓄꒤ꋪ꒐ꄲꋊ ([@centurion_the_goat](https://discord.com/users/885776181453013022))
 
 Accepted Suggestions:
 - Necro ([@necromancerow](https://discord.com/users/1060597396393959504))
+- Anastasia ([@cot.cb](https://discord.com/users/657091104877051907))
 - ailuros ([@ai1ur0s](https://discord.com/users/1238490551003643955)) (Easter egg)
 
 Masks:
